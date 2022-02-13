@@ -25,3 +25,6 @@ I mostly spend my time here on GitHub doing hobby projects (and most of them nev
 ![Gaming](https://img.shields.io/badge/🖥️-Gaming-282C34?style=for-the-badge&labelColor=282C34)
 ![Music](https://img.shields.io/badge/🎵-Music-282C34?style=for-the-badge&labelColor=282C34)
 ![IoT](https://img.shields.io/badge/IoT-282C34?logo=raspberry-pi&style=for-the-badge)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
