@@ -5,8 +5,8 @@ I mostly spend my time here on GitHub doing hobby projects (and most of them nev
 
 ### My current tech stack 💻
 #### IDEs and Editors
-![PyCharm](https://img.shields.io/badge/Pycharm-282C34?logo=pycharm&style=for-the-badge)
-![VSCode](https://img.shields.io/badge/VSCode-282C34?logo=visual-studio-code&style=for-the-badge)
+[![PyCharm](https://img.shields.io/badge/Pycharm-282C34?logo=pycharm&style=for-the-badge)](https://www.jetbrains.com/pycharm/)
+[![VSCode](https://img.shields.io/badge/VSCode-282C34?logo=visual-studio-code&style=for-the-badge)](https://code.visualstudio.com/)
 
 #### Currently, used in professional environment 
 [![Python](https://img.shields.io/badge/Python-282C34?logo=Python&style=for-the-badge&logoColor=3776AB)](https://github.com/Xerrion?tab=repositories&q=&type=&language=python&sort=)
