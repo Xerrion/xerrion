@@ -27,4 +27,7 @@ I mostly spend my time here on GitHub doing hobby projects (and most of them nev
 <img src="https://img.shields.io/badge/IoT-282C34?logo=raspberry-pi&style=for-the-badge" alt="IoT" height="28" />
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
