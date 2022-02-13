@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi there I am Xerrion aka Lasse Nielsen 👋
+I currently work as a Sofware Developer @ the Odense based drone company [QuadSAT](https://quadsat.com/), that specialized in Antenna and RF Measurements.
 
-<!--
-**Xerrion/xerrion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I mostly spend my time here on GitHub doing hobby projects (and most of them never becomes much off), and general self thaught challenges.
 
-Here are some ideas to get you started:
+### My current tech stack 💻
+#### IDEs and Editors
+![PyCharm](https://img.shields.io/badge/Pycharm-282C34?logo=pycharm&style=for-the-badge)
+![VSCode](https://img.shields.io/badge/VSCode-282C34?logo=visual-studio-code&style=for-the-badge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Currently, used in professional environment 
+![Python](https://img.shields.io/badge/Python-282C34?logo=Python&style=for-the-badge&logoColor=3776AB&link=https://github.com/Xerrion?tab=repositories&q=&type=&language=python&sort=)
+![ROS](https://img.shields.io/badge/ROS-282C34?logo=ros&style=for-the-badge&logoColor=3776AB&link=https://ros.org/)
+![Docker](https://img.shields.io/badge/Docker-282C34?logo=docker&style=for-the-badge&logoColor=3776AB&link=https://github.com/Xerrion?tab=repositories&q=&type=&language=docker&sort=)
+![Qt](https://img.shields.io/badge/Qt-282C34?logo=qt&style=for-the-badge&link=https://github.com/Xerrion?tab=repositories&q=&type=&language=qt&sort=)
+![Jira](https://img.shields.io/badge/Jira-282C34?logo=jira&style=for-the-badge&link=https://jira.atlassian.com/)
+![GitLab](https://img.shields.io/badge/GitLab-282C34?logo=gitlab&style=for-the-badge&link=https://gitlab.com/Xerrion)
+
+#### Currently, used in hobby environment, including some from the professional environment. 
+![Rust](https://img.shields.io/badge/Rust-282C34?logo=rust&style=for-the-badge&link=https://github.com/Xerrion?tab=repositories&q=&type=&language=rust&sort=)
+![Go](https://img.shields.io/badge/Go-282C34?logo=go&style=for-the-badge&link=https://github.com/Xerrion?tab=repositories&q=&type=&language=go&sort=)
+![Typescript](https://img.shields.io/badge/Typescript-282C34?logo=typescript&style=for-the-badge&link=https://github.com/Xerrion?tab=repositories&q=&type=&language=typescript&sort=)
+
+#### Other passions 🎉
+![Gaming](https://img.shields.io/badge/Gaming-🖥️-282C34?style=for-the-badge)
+![Music](https://img.shields.io/badge/Music-🎵-282C34?style=for-the-badge)
+![IoT](https://img.shields.io/badge/IoT-282C34?logo=raspberry-pi&style=for-the-badge)
