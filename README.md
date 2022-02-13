@@ -27,4 +27,7 @@ I mostly spend my time here on GitHub doing hobby projects (and most of them nev
 ![IoT](https://img.shields.io/badge/IoT-282C34?logo=raspberry-pi&style=for-the-badge)
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
