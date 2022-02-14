@@ -29,6 +29,12 @@ I mostly spend my time here on GitHub doing hobby projects (and most of them nev
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 07 February, 2022 - 13 February, 2022
+
+Python       1 hr 15 mins    ███████████░░░░░░░░░░░░░░   43.58 % 
+JavaScript   1 hr 12 mins    ██████████▓░░░░░░░░░░░░░░   42.07 % 
+Bash         13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+JSON         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+.env file    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 ```
 <!--END_SECTION:waka-->
