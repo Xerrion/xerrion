@@ -31,10 +31,10 @@ I mostly spend my time here on GitHub doing hobby projects (and most of them nev
 ```text
 Week: 08 February, 2022 - 14 February, 2022
 
-Python       1 hr 15 mins    ███████████░░░░░░░░░░░░░░   43.58 % 
-JavaScript   1 hr 12 mins    ██████████▓░░░░░░░░░░░░░░   42.07 % 
-Bash         13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
-JSON         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-.env file    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+Python       1 hr 54 mins    █████████████▒░░░░░░░░░░░   53.89 % 
+JavaScript   1 hr 12 mins    ████████▓░░░░░░░░░░░░░░░░   34.36 % 
+Bash         13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+JSON         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+.env file    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 ```
 <!--END_SECTION:waka-->
