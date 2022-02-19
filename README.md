@@ -31,8 +31,6 @@ I mostly spend my time here on GitHub doing hobby projects (and most of them nev
 ```text
 Week: 12 February, 2022 - 18 February, 2022
 
-Total: 3 hrs 31 mins
-
 Python       1 hr 54 mins    █████████████▒░░░░░░░░░░░   53.89 % 
 JavaScript   1 hr 12 mins    ████████▓░░░░░░░░░░░░░░░░   34.36 % 
 Bash         13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
