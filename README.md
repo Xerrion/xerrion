@@ -30,13 +30,7 @@ I mostly spend my time here on GitHub doing hobby projects (and most of them nev
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 March 2022 - To: 19 March 2022
-
-Rust             57 mins         ███████████████░░░░░░░░░░   59.57 %
-Python           37 mins         █████████▓░░░░░░░░░░░░░░░   38.68 %
-GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
-CSV/TSV          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-TOML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
