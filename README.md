@@ -30,7 +30,14 @@ I mostly spend my time here on GitHub doing hobby projects (and most of them nev
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 13 April 2022 - To: 20 April 2022
+
+Docker           1 hr 50 mins    ██████████████▒░░░░░░░░░░   57.57 %
+Rust             1 hr            ████████░░░░░░░░░░░░░░░░░   31.54 %
+TOML             9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
+GitIgnore file   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+Python           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+Markdown         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 ```
 
 <!--END_SECTION:waka-->
