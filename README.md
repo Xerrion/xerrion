@@ -30,14 +30,14 @@ I mostly spend my time here on GitHub doing hobby projects (and most of them nev
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 April 2022 - To: 26 April 2022
+From: 20 April 2022 - To: 27 April 2022
 
-Docker           1 hr 50 mins    ██████████▓░░░░░░░░░░░░░░   42.23 %
-Rust             1 hr            █████▓░░░░░░░░░░░░░░░░░░░   23.14 %
-YAML             39 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.07 %
-Text             24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 %
-TOML             9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
-GitIgnore file   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+YAML               2 hrs 39 mins   ████████████████░░░░░░░░░   64.59 %
+Text               37 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.21 %
+Docker             18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
+RPMSpec            13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
+Markdown           8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+Docker File        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
 ```
 
 <!--END_SECTION:waka-->
