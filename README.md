@@ -30,14 +30,14 @@ I mostly spend my time here on GitHub doing hobby projects (and most of them nev
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 April 2022 - To: 03 May 2022
+From: 27 April 2022 - To: 04 May 2022
 
-YAML               2 hrs 2 mins    ████████████▒░░░░░░░░░░░░   48.90 %
-Python             1 hr 4 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.86 %
-Docker             18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
-RPMSpec            13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
-Text               13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
-requirements.txt   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+Python             1 hr 2 mins     █████████████████████▒░░░   85.13 %
+requirements.txt   7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 %
+YAML               2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+Qt UI file         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Text               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Docker File        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
