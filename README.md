@@ -30,14 +30,12 @@ I mostly spend my time here on GitHub doing hobby projects (and most of them nev
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 June 2022 - To: 08 June 2022
+From: 02 June 2022 - To: 09 June 2022
 
-Python             4 hrs 13 mins   ██████████████████████▒░░   89.96 %
-Markdown           15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
-YAML               10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
-GitIgnore file     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-TOML               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-RPMSpec            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Python     17 mins         ████████████████▒░░░░░░░░   65.28 %
+YAML       5 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.73 %
+Markdown   3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.93 %
+TOML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
