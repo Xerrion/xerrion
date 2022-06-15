@@ -30,12 +30,9 @@ I mostly spend my time here on GitHub doing hobby projects (and most of them nev
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 June 2022 - To: 13 June 2022
+From: 07 June 2022 - To: 14 June 2022
 
-YAML     0 secs          ███████████████████████▒░   92.74 %
-Python   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
-TOML     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
