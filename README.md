@@ -1,6 +1,4 @@
 ### Hi there I am Xerrion aka Lasse Nielsen 👋
-I currently work as a Sofware Developer @ the Odense based drone company [QuadSAT](https://quadsat.com/), that specialized in Antenna and RF Measurements.
-
 I mostly spend my time here on GitHub doing hobby projects (and most of them never becomes much off), and general self thaught challenges.
 
 ### My current tech stack 💻
