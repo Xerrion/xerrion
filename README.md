@@ -28,11 +28,7 @@ Before TV 2, I worked in **satellite communications**. Yes, actual satellites in
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Xerrion&show_icons=true&theme=dark&hide_border=true" alt="GitHub contribution statistics showing repositories, stars, and commits" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xerrion&theme=dark&hide_border=true" alt="GitHub contribution streak showing consecutive days of activity" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xerrion&layout=compact&theme=dark&hide_border=true" alt="Chart showing most used programming languages across repositories" />
+  <img src="https://streak-stats.demolab.com/?user=Xerrion&theme=dark&hide_border=true" alt="GitHub contribution streak showing consecutive days of activity" />
 </p>
 
 ---
