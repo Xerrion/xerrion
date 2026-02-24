@@ -24,11 +24,15 @@ Before TV 2, I worked in **satellite communications**. Yes, actual satellites in
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Profile
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xerrion&show_icons=true&theme=dark&hide_border=true" alt="GitHub contribution statistics showing repositories, stars, and commits" />
-  <img src="https://streak-stats.demolab.com/?user=Xerrion&theme=dark&hide_border=true" alt="GitHub contribution streak showing consecutive days of activity" />
+  <a href="https://github.com/Xerrion?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FXerrion&query=public_repos&label=Public%20Repos&style=for-the-badge&color=282C34&logo=github" alt="Public repositories count" />
+  </a>
+  <a href="https://github.com/Xerrion?tab=followers">
+    <img src="https://img.shields.io/github/followers/Xerrion?label=Followers&style=for-the-badge&color=282C34&logo=github" alt="GitHub followers count" />
+  </a>
 </p>
 
 ---
