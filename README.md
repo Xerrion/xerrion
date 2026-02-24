@@ -6,6 +6,10 @@
   📍 Odense, Denmark &nbsp;·&nbsp; 💻 Software Developer &nbsp;·&nbsp; 🕐 10+ years of building things with code
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Xerrion&style=for-the-badge&color=282C34" alt="Profile view counter" />
+</p>
+
 ---
 
 ## 👤 About Me
@@ -33,6 +37,14 @@ Before TV 2, I worked in **satellite communications**. Yes, actual satellites in
   <a href="https://github.com/Xerrion?tab=followers">
     <img src="https://img.shields.io/github/followers/Xerrion?label=Followers&style=for-the-badge&color=282C34&logo=github" alt="GitHub followers count" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Xerrion&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub profile trophies for commits, repositories, stars and more" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xerrion&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" alt="Contribution activity graph showing commits over the past year" />
 </p>
 
 ---
