@@ -37,23 +37,6 @@ Pragmatic developer — I pick the right tool for the job, not the trendiest one
 
 <div align="center">
 
-<img src="https://github-profile-trophy-git-master-lasse-nielsens-projects.vercel.app/?username=Xerrion&theme=darkhub&no-frame=true&no-bg=true&column=-1&margin-w=10&v=2" alt="GitHub Trophies" />
-
-<br/><br/>
-
-<a href="https://github.com/Xerrion">
-  <img height="200" align="center" src="https://github-readme-stats-git-master-lasse-nielsens-projects.vercel.app/api?username=Xerrion&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&ring_color=58a6ff&hide_border=true&v=2" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/Xerrion">
-  <img height="200" align="center" src="https://github-readme-stats-git-master-lasse-nielsens-projects.vercel.app/api/top-langs/?username=Xerrion&layout=compact&langs_count=8&card_width=320&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&hide_border=true&v=2" alt="Top Languages" />
-</a>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Xerrion&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9&stroke=30363d" alt="GitHub Streak Stats" />
-
-<br/><br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xerrion&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area_color=58a6ff&area=true&hide_border=true&title_color=58a6ff" alt="Contribution Activity Graph" />
 
 <br/><br/>
@@ -65,13 +48,6 @@ Pragmatic developer — I pick the right tool for the job, not the trendiest one
 </picture>
 
 </div>
-
----
-
-## WakaTime
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ---
 
