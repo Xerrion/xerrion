@@ -95,15 +95,3 @@ My Golden Retriever, senior break enforcer, and full-time debugging moral suppor
 ![Walking Charlie](https://img.shields.io/badge/Walking_Charlie-0d1117?style=for-the-badge&logo=paw&logoColor=58a6ff)
 ![IoT](https://img.shields.io/badge/IoT-0d1117?logo=raspberry-pi&style=for-the-badge&logoColor=58a6ff)
 ![Side Projects](https://img.shields.io/badge/Side_Projects-0d1117?style=for-the-badge&logo=githubactions&logoColor=58a6ff)
-
----
-
-<div align="center">
-
-### Find Me
-
-[![GitLab](https://img.shields.io/badge/GitLab-0d1117?logo=gitlab&style=for-the-badge)](https://gitlab.com/Xerrion)
-
-<sub>Built with caffeine, Charlie's moral support, and questionable commit messages.</sub>
-
-</div>
