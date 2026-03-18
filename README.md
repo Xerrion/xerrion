@@ -69,6 +69,7 @@ Pragmatic developer — I pick the right tool for the job, not the trendiest one
 
 [![Rust](https://img.shields.io/badge/Rust-0d1117?logo=rust&style=for-the-badge)](https://github.com/Xerrion?tab=repositories&q=&type=&language=rust&sort=)
 [![Go](https://img.shields.io/badge/Go-0d1117?logo=go&style=for-the-badge)](https://github.com/Xerrion?tab=repositories&q=&type=&language=go&sort=)
+[![Lua](https://img.shields.io/badge/Lua-0d1117?logo=lua&style=for-the-badge)](https://github.com/Xerrion?tab=repositories&q=&type=&language=lua&sort=)
 
 ### Satellite Era
 
