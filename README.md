@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Lasse &nbsp;`@Xerrion`
+# 👋 Hey, I'm Lasse &nbsp;`@Xerrion`
 
 ![Odense, Denmark](https://img.shields.io/badge/Odense,_Denmark-0d1117?style=flat-square&logo=google-maps&logoColor=58a6ff)
 ![Software Engineer](https://img.shields.io/badge/Software_Engineer-0d1117?style=flat-square&logo=terminal&logoColor=58a6ff)
@@ -8,13 +8,11 @@
 
 </div>
 
-<br>
+> Pragmatic developer with 10+ years of building things, from satellite ground stations to streaming platforms. I pick the right tool for the job, not the trendiest one. Sometimes that's Rust, sometimes it's a bash script.
 
-Pragmatic developer with 10+ years of building things, from satellite ground stations to streaming platforms. I pick the right tool for the job, not the trendiest one. Sometimes that's Rust, sometimes it's a bash script.
+<br>
 
 My GitHub is where hobby projects and self-taught experiments live, most perpetually in progress. That's the fun part.
-
-<br>
 
 ### Now
 
@@ -26,7 +24,13 @@ Building internal tools at [**TV 2 Danmark**](https://tv2.dk/), Denmark's bigges
 
 <br>
 
-### What I work with
+### 🐕 Charlie 
+
+My Golden Retriever, senior break enforcer, and full-time debugging moral support. Undisputed best co-worker. Most of my best ideas happen somewhere between his second and third walk of the day.
+
+<br>
+
+### 💻 What I work with
 
 **Day to day**<br>
 [![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?logo=typescript&style=for-the-badge)](https://github.com/Xerrion?tab=repositories&language=typescript)
@@ -47,11 +51,7 @@ Building internal tools at [**TV 2 Danmark**](https://tv2.dk/), Denmark's bigges
 
 <br>
 
-### Charlie
-
-My Golden Retriever, senior break enforcer, and full-time debugging moral support. Undisputed best co-worker. Most of my best ideas happen somewhere between his second and third walk of the day.
-
-### When I'm not coding
+### 🌅 When I'm not coding
 
 Gaming, podcasts, walking Charlie, tinkering with IoT and Raspberry Pis, and starting side projects I'll definitely finish this time.
 
