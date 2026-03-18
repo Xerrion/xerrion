@@ -1,98 +1,64 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Lasse+%F0%9F%91%8B;aka+Xerrion+everywhere+online;Software+Developer+%7C+10%2B+years;Building+things+that+matter)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=Xerrion&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS" alt="Profile view counter" />
+# Hey, I'm Lasse &nbsp;`@Xerrion`
 
 ![Odense, Denmark](https://img.shields.io/badge/Odense,_Denmark-0d1117?style=flat-square&logo=google-maps&logoColor=58a6ff)
-![Software Developer](https://img.shields.io/badge/Software_Developer-0d1117?style=flat-square&logo=terminal&logoColor=58a6ff)
+![Software Engineer](https://img.shields.io/badge/Software_Engineer-0d1117?style=flat-square&logo=terminal&logoColor=58a6ff)
 ![10+ Years](https://img.shields.io/badge/10%2B_Years-0d1117?style=flat-square&logo=clockify&logoColor=58a6ff)
 
 </div>
 
----
+<br>
 
-## About Me
+Pragmatic developer with 10+ years of building things, from satellite ground stations to streaming platforms. I pick the right tool for the job, not the trendiest one. Sometimes that's Rust, sometimes it's a bash script.
 
-Pragmatic developer — I pick the right tool for the job, not the trendiest one. Sometimes that's Rust, sometimes it's a bash script. My GitHub is where hobby projects and self-taught experiments live, most perpetually in progress. That's the fun part.
+My GitHub is where hobby projects and self-taught experiments live, most perpetually in progress. That's the fun part.
 
----
+<br>
 
-## Work
+### Now
 
-<table>
-  <tr>
-    <td><strong>Now</strong></td>
-    <td><a href="https://tv2.dk/"><strong>TV 2 Danmark</strong></a> — Building internal tools at Denmark's biggest TV station & streaming service. The kind of work where <em>"that used to take 2 hours, now it takes 5 minutes"</em> is the best compliment.</td>
-  </tr>
-  <tr>
-    <td><strong>Before</strong></td>
-    <td><strong>Satellite Communications</strong> — Yes, actual satellites in space. Taught me how to build systems that absolutely cannot fail.</td>
-  </tr>
-</table>
+Building internal tools at [**TV 2 Danmark**](https://tv2.dk/), Denmark's biggest TV station and streaming service. The kind of work where *"that used to take 2 hours, now it takes 5 minutes"* is the best compliment.
 
----
+### Before
 
-## GitHub Stats
+**Satellite communications.** Yes, actual satellites in space. Built ground control software, autonomous flight logic, and data analysis tools for drone-based antenna measurement systems. Drones carrying RF payloads to test satellite dishes and radars on-site, for clients like ESA, NATO and TERMA. Using Qt, Python, and code that absolutely cannot fail mid-flight.
+
+<br>
+
+### What I work with
+
+**Day to day**<br>
+[![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?logo=typescript&style=for-the-badge)](https://github.com/Xerrion?tab=repositories&language=typescript)
+[![Svelte](https://img.shields.io/badge/Svelte-0d1117?logo=svelte&style=for-the-badge)](https://github.com/Xerrion?tab=repositories&language=svelte)
+[![Python](https://img.shields.io/badge/Python-0d1117?logo=python&style=for-the-badge)](https://github.com/Xerrion?tab=repositories&language=python)
+[![Docker](https://img.shields.io/badge/Docker-0d1117?logo=docker&style=for-the-badge)](https://github.com/Xerrion?tab=repositories)
+[![ServiceNow](https://img.shields.io/badge/ServiceNow-0d1117?logo=servicenow&style=for-the-badge)](https://www.servicenow.com/)
+
+**For fun**<br>
+[![Rust](https://img.shields.io/badge/Rust-0d1117?logo=rust&style=for-the-badge)](https://github.com/Xerrion?tab=repositories&language=rust)
+[![Go](https://img.shields.io/badge/Go-0d1117?logo=go&style=for-the-badge)](https://github.com/Xerrion?tab=repositories&language=go)
+[![Lua](https://img.shields.io/badge/Lua-0d1117?logo=lua&style=for-the-badge)](https://github.com/Xerrion?tab=repositories&language=lua)
+
+**Satellite era**<br>
+[![ROS](https://img.shields.io/badge/ROS-0d1117?logo=ros&style=for-the-badge)](https://ros.org/)
+[![Qt](https://img.shields.io/badge/Qt-0d1117?logo=qt&style=for-the-badge)](https://www.qt.io/)
+[![Python](https://img.shields.io/badge/Python-0d1117?logo=python&style=for-the-badge)](https://github.com/Xerrion?tab=repositories&language=python)
+
+<br>
+
+### Charlie
+
+My Golden Retriever, senior break enforcer, and full-time debugging moral support. Undisputed best co-worker. Most of my best ideas happen somewhere between his second and third walk of the day.
+
+### When I'm not coding
+
+Gaming, podcasts, walking Charlie, tinkering with IoT and Raspberry Pis, and starting side projects I'll definitely finish this time.
+
+<br>
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xerrion&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area_color=58a6ff&area=true&hide_border=true&title_color=58a6ff" alt="Contribution Activity Graph" />
 
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xerrion/Xerrion/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xerrion/Xerrion/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Xerrion/Xerrion/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
 </div>
-
----
-
-## Tech Stack
-
-### Daily Driver
-
-[![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?logo=typescript&style=for-the-badge)](https://github.com/Xerrion?tab=repositories&q=&type=&language=typescript&sort=)
-[![Svelte](https://img.shields.io/badge/Svelte-0d1117?logo=svelte&style=for-the-badge)](https://github.com/Xerrion?tab=repositories&q=&type=&language=svelte&sort=)
-
-### Gets the Job Done
-
-[![Python](https://img.shields.io/badge/Python-0d1117?logo=Python&style=for-the-badge&logoColor=3776AB)](https://github.com/Xerrion?tab=repositories&q=&type=&language=python&sort=)
-[![Docker](https://img.shields.io/badge/Docker-0d1117?logo=docker&style=for-the-badge&logoColor=2496ED)](https://github.com/Xerrion?tab=repositories&q=&type=&language=docker&sort=)
-[![ServiceNow](https://img.shields.io/badge/ServiceNow-0d1117?logo=servicenow&style=for-the-badge)](https://www.servicenow.com/)
-[![Jira](https://img.shields.io/badge/Jira-0d1117?logo=jira&style=for-the-badge)](https://jira.atlassian.com/)
-
-### Fun Stuff
-
-[![Rust](https://img.shields.io/badge/Rust-0d1117?logo=rust&style=for-the-badge)](https://github.com/Xerrion?tab=repositories&q=&type=&language=rust&sort=)
-[![Go](https://img.shields.io/badge/Go-0d1117?logo=go&style=for-the-badge)](https://github.com/Xerrion?tab=repositories&q=&type=&language=go&sort=)
-[![Lua](https://img.shields.io/badge/Lua-0d1117?logo=lua&style=for-the-badge)](https://github.com/Xerrion?tab=repositories&q=&type=&language=lua&sort=)
-
-### Satellite Era
-
-[![ROS](https://img.shields.io/badge/ROS-0d1117?logo=ros&style=for-the-badge&logoColor=22314E)](https://ros.org/)
-[![Qt](https://img.shields.io/badge/Qt-0d1117?logo=qt&style=for-the-badge)](https://github.com/Xerrion?tab=repositories&q=&type=&language=qt&sort=)
-
-### IDEs & Editors
-
-[![PyCharm](https://img.shields.io/badge/PyCharm-0d1117?logo=pycharm&style=for-the-badge)](https://www.jetbrains.com/pycharm/)
-[![VSCode](https://img.shields.io/badge/VSCode-0d1117?logo=visual-studio-code&style=for-the-badge)](https://code.visualstudio.com/)
-
----
-
-## Charlie
-
-My Golden Retriever, senior break enforcer, and full-time debugging moral support. Undisputed best co-worker.
-
----
-
-## Outside of Work
-
-![Gaming](https://img.shields.io/badge/Gaming-0d1117?style=for-the-badge&logo=steam&logoColor=58a6ff)
-![Podcasts](https://img.shields.io/badge/Podcasts-0d1117?style=for-the-badge&logo=pocket-casts&logoColor=58a6ff)
-![Walking Charlie](https://img.shields.io/badge/Walking_Charlie-0d1117?style=for-the-badge&logo=paw&logoColor=58a6ff)
-![IoT](https://img.shields.io/badge/IoT-0d1117?logo=raspberry-pi&style=for-the-badge&logoColor=58a6ff)
-![Side Projects](https://img.shields.io/badge/Side_Projects-0d1117?style=for-the-badge&logo=githubactions&logoColor=58a6ff)
