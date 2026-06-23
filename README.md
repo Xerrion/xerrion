@@ -57,8 +57,4 @@ Gaming, podcasts, walking Charlie, tinkering with IoT and Raspberry Pis, and sta
 
 <br>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Xerrion&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area_color=58a6ff&area=true&hide_border=true&title_color=58a6ff" alt="Contribution Activity Graph" />
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=xerrion&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" alt="GitHub Stats" />
